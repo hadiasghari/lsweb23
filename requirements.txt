@@ -1,0 +1,17 @@
+# env is python 3.x
+
+# for notebooks, training, analysis
+jupyter  # also installs ipython
+jupyterlab
+scipy
+pandas
+matplotlib 
+tensorflow  # v2.11 
+nltk
+textstats  # reading difficulty
+
+# for crawler & tld extraction
+tldextract 
+scrapy  
+html2text  
+
