@@ -22,3 +22,5 @@ The following files are additionally included:
 - ___oscar22-classified.csv.xz___: a very large file containing our Oscar22 subset URLs passed through our classifier (output of step 3)
 
 If you have any questions or notice any errors, please feel free to open an issue or contact the authors.
+
+The repository code is licensed under the Mozilla Public License 2.0. If you make use of it, please consider citing our paper. 
